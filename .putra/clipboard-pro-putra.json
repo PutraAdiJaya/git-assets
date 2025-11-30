@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "history": [
+    {
+      "id": "clipboard-1764499278513-1-2d06pk0d0",
+      "content": " image-converter-pro",
+      "timestamp": "2025-11-30T10:41:18.513Z",
+      "isPinned": false,
+      "language": "plaintext",
+      "preview": " image-converter-pro",
+      "metadata": {
+        "source": "copy"
+      }
+    }
+  ],
+  "pinnedItems": [],
+  "settings": {
+    "maxHistorySize": 100,
+    "autoDetectLanguage": true,
+    "showPreview": true,
+    "storageLocation": "workspace"
+  },
+  "lastModified": "2025-11-30T10:41:21.293Z"
+}
