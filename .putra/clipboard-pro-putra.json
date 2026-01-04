@@ -2,34 +2,12 @@
   "version": "1.0.0",
   "history": [
     {
-      "id": "clipboard-1764503024759-2-95o2fq5ib",
-      "content": "file-splitter-pro",
-      "timestamp": "2025-11-30T11:43:44.760Z",
+      "id": "clipboard-1766659617973-2-sp6dm10fc",
+      "content": "404 Page Not Found\r\nDid you forget to add the page to the router?",
+      "timestamp": "2025-12-25T10:46:57.973Z",
       "isPinned": false,
       "language": "plaintext",
-      "preview": "file-splitter-pro",
-      "metadata": {
-        "source": "copy"
-      }
-    },
-    {
-      "id": "clipboard-1764501746929-2-6zjwkezjc",
-      "content": "https://github.com/PutraAdiJaya/git-assets/blob/main/image-converter-pro/image0.png",
-      "timestamp": "2025-11-30T11:22:26.929Z",
-      "isPinned": false,
-      "language": "yaml",
-      "preview": "https://github.com/PutraAdiJaya/git-assets/blob/main/image-converter-pro/image0.png",
-      "metadata": {
-        "source": "copy"
-      }
-    },
-    {
-      "id": "clipboard-1764499278513-1-2d06pk0d0",
-      "content": " image-converter-pro",
-      "timestamp": "2025-11-30T10:41:18.513Z",
-      "isPinned": false,
-      "language": "plaintext",
-      "preview": " image-converter-pro",
+      "preview": "404 Page Not Found\r\nDid you forget to add the page to the router?",
       "metadata": {
         "source": "copy"
       }
@@ -42,5 +20,5 @@
     "showPreview": true,
     "storageLocation": "workspace"
   },
-  "lastModified": "2025-11-30T11:43:46.274Z"
+  "lastModified": "2025-12-25T10:46:59.473Z"
 }
