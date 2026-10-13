@@ -1,1 +1,6 @@
 .putra/**
+.specstory/.gitignore
+.gitignore
+.vscode/settings.json
+.specstory/cli/config.toml
+.specstory/.gitignore
